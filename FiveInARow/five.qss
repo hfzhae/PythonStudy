@@ -1,0 +1,16 @@
+QTableWidget {
+	background: #FFA042;
+}
+
+QTableWidget::item {
+	outline-style: none;
+	color: #FFA042;
+}
+
+QTableWidget::item:selected {
+	background: #FFA042;
+}
+
+QTableView{
+	outline: none;
+}

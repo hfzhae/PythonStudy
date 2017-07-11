@@ -18,7 +18,7 @@ def getHtml(url):
     #opener.addheaders = [('User-Agent','Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36')]
     #urllib.request.install_opener(opener)
     #response = urllib.request.urlopen(url)
-    #使用代理服务器结束
+    #使用代理服务器结束 test
     
     #正常访问
     req = urllib.request.Request(url)
